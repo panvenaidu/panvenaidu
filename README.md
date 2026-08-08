@@ -10,11 +10,11 @@
 <br>
 
 <!-- ===== TITLE ===== -->
-# Hey there, I'm [YOUR_NAME] 👋
+# Hey there, I'm Panvee Naidu 👋
 
 <!-- ===== ANIMATED TYPING TEXT ===== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Cybersecurity+Undergrad;Real-Time+%26+Distributed+Systems+Builder;Open+to+Remote+SWE+Internships" alt="Typing SVG" />
 </a>
 
 <br>
@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/github/followers/panvenaidu?label=Followers&style=for-the-badge&color=FF69B4&labelColor=1a1a2e" alt="followers"/>
   <img src="https://img.shields.io/github/stars/panvenaidu?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a2e" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=panvenaidu&label=Profile+Views&style=for-the-badge&color=EF93C4&labelColor=1a1a2e" alt="views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20SWE%20Internships-FF69B4?style=for-the-badge&labelColor=1a1a2e" alt="open-to-work"/>
 </p>
 
 <br>
@@ -37,12 +41,13 @@
   <tr>
     <td width="65%" valign="middle">
       <ul>
-        <li>🔭 I'm currently working on <b>[CURRENT_PROJECT]</b></li>
-        <li>🌱 I'm currently learning <b>[SKILL_OR_TECH]</b></li>
-        <li>👯 I'm looking to collaborate on <b>[PROJECT_TYPE]</b></li>
-        <li>💬 Ask me about <b>[YOUR_EXPERTISE]</b></li>
-        <li>📫 How to reach me: <b>[YOUR_EMAIL]</b></li>
-        <li>⚡ Fun fact: <b>[FUN_FACT]</b></li>
+        <li>🎓 Final-year B.Tech CSE (Cybersecurity specialization) @ <b>SRM University – AP</b> · Expected May 2027</li>
+        <li>🔭 Currently building <b>Aurum</b> — a role-based, multi-tenant hotel management platform (FastAPI + React)</li>
+        <li>🌱 Currently exploring <b>Generative AI / LLM engineering</b></li>
+        <li>👯 Open to collaborating on full-stack or security-focused open-source projects</li>
+        <li>💬 Ask me about real-time systems (Socket.IO/Redis), PKCS#11 &amp; HSM cryptography, or FastAPI/React</li>
+        <li>📫 Reach me: <b>panveenaidu5@gmail.com</b></li>
+        <li>📍 Guntur, Andhra Pradesh, India</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -58,7 +63,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,git,github,docker,figma,mongodb,mysql,postgres,aws&theme=light" alt="tech-stack"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,python,c,html,css,tailwind,git,github,docker,redis,postgres,mysql,vercel,linux&theme=light" alt="tech-stack"/>
 
 <br><br>
 
@@ -81,6 +86,31 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=panvenaidu&theme=react-dark&hide_border=true&bg_color=00000000&color=F8BBD0&line=FF69B4&point=EF93C4" alt="activity-graph" width="90%"/>
 
 <br><br>
+
+<!-- ===== FEATURED PROJECTS ===== -->
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/panvenaidu/aero-chat-realtime">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panvenaidu&repo=aero-chat-realtime&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0" alt="AeroChat"/>
+  </a>
+  <a href="https://github.com/panvenaidu/aurum-hotel-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panvenaidu&repo=aurum-hotel-management&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0" alt="Aurum"/>
+  </a>
+  <br/>
+  <a href="https://github.com/panvenaidu/pkcs11-otp-authentication">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panvenaidu&repo=pkcs11-otp-authentication&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0" alt="PKCS11 OTP Authentication"/>
+  </a>
+  <a href="https://github.com/panvenaidu/valorix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panvenaidu&repo=valorix&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0" alt="Valorix"/>
+  </a>
+  <br/>
+  <a href="https://github.com/panvee/Home-Automation-Using-Voice-Command">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=panvee&repo=Home-Automation-Using-Voice-Command&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0" alt="Smart Home Automation"/>
+  </a>
+</p>
+
+<br>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 ## 🐍 Contribution Snake
@@ -127,26 +157,27 @@
 
 <br><br>
 
+<!-- ===== CERTIFICATIONS ===== -->
+## 📜 Certifications &amp; Achievements
+
+<ul align="left" style="display:inline-block; text-align:left;">
+  <li>🏅 SAP Certified — SAP Generative AI Developer, SAP (2026)</li>
+  <li>🏅 GenAI for Front-End Developers, Coursera (2025)</li>
+  <li>🏅 Intro to Front-End Development, Meta (2025)</li>
+  <li>🏅 Google AI Essentials, Google (2025)</li>
+  <li>🏆 Participant — Data Analytics &amp; Data Science with Python Hackathons, TechGyan (IIT Hyderabad, 2025)</li>
+</ul>
+
+<br>
+
 <!-- ===== CONNECT ===== -->
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/panvee-naidu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://x.com/[YOUR_X_HANDLE]" target="_blank">
-    <img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
-  </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-  <a href="https://tiktok.com/@[YOUR_TIKTOK]" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
-  </a>
-  <a href="https://youtube.com/@[YOUR_YOUTUBE]" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
-  </a>
-  <a href="mailto:[YOUR_EMAIL]" target="_blank">
+  <a href="mailto:panveenaidu5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
@@ -163,5 +194,5 @@
 </picture>
 
 <div align="center">
-  <sub>⭐ From <b>[YOUR_NAME]</b> — thanks for stopping by!</sub>
+  <sub>⭐ From <b>Panvee Naidu</b> — thanks for stopping by!</sub>
 </div>
